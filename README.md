@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/QponitH.jpeg/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://i.imgur.com/QponitH.jpeg HIPSTER-green12?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HIPSTER12" src="https://i.imgur.com/QponitH.jpeg HIPSTER-green12?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
